@@ -15,3 +15,7 @@ mvn clean test
 ```
 
 All tests are in the standard *src/test/java* directory and supporting models are under *src/main/java*.
+
+## Coding Style
+
+This project relies on the Google coding [style](https://google.github.io/styleguide/javaguide.html).
